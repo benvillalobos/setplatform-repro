@@ -1,0 +1,1 @@
+scenario 3: B is now anycpu, A should pass SetPlatform=AnyCPU to B.

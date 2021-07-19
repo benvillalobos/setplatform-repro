@@ -1,0 +1,1 @@
+A should pass SetPlatform=x64

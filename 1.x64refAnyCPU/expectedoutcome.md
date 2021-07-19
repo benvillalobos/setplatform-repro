@@ -1,0 +1,1 @@
+B should build as AnyCPU instead of allowing B inherit x64
