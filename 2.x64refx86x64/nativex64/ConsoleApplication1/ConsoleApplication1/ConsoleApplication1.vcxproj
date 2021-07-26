@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ProjectReference Include="..\..\..\managedx86x64\managedx86x64.csproj"/>
+    <ProjectReference Include="..\..\..\managedx86x64\managedx86x64.csproj" PlatformLookupTable="Win32=x64"/>
   </ItemGroup>
   <PropertyGroup>
-    <PlatformLookupTable>Win32=x64</PlatformLookupTable>
     <EnableDynamicPlatformResolution>true</EnableDynamicPlatformResolution>
+    <Platform>x64</Platform>
   </PropertyGroup>
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
