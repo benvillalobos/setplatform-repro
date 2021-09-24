@@ -1,1 +1,1 @@
-A should pass SetPlatform=x64
+A should pass Platform=x64

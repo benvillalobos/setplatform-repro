@@ -1,0 +1,1 @@
+Build with any allowed Platform as a global property and B should inherit it.

@@ -1,1 +1,1 @@
-scenario 3: B is now anycpu, A should pass SetPlatform=AnyCPU to B.
+scenario 3: B is now anycpu, A should pass Platform=AnyCPU to B because it's most compatible

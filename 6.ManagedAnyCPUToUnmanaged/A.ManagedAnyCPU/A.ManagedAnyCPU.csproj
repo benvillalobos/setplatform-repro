@@ -4,11 +4,10 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <EnableDynamicPlatformResolution>true</EnableDynamicPlatformResolution>
-    <DisableTransitiveProjectReferences>true</DisableTransitiveProjectReferences>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="../B.Unmanaged/B.Unmanaged/B.Unmanaged.vcxproj"/>
+    <ProjectReference Include="../B.Unmanaged/B.Unmanaged/B.Unmanaged.vcxproj" SetTargetFramework="TargetFramework=net6.0"/>
   </ItemGroup>
 
 </Project>

@@ -1,1 +1,1 @@
-Build should fail or emit a warning.
+Build should emit warning.

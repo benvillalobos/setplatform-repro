@@ -1,0 +1,6 @@
+<Project>
+    <PropertyGroup>
+        <EnableDynamicPlatformResolution>true</EnableDynamicPlatformResolution>
+        <DisableTransitiveProjectReferences>true</DisableTransitiveProjectReferences>
+    </PropertyGroup>
+</Project>

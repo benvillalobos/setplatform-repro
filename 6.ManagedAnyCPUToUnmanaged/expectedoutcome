@@ -1,1 +1,4 @@
-B should translate AnyCPU to win32 on its own
+Should throw a warning because anycpu does not map to win32.
+if A is built as x86, it should map to win32.
+
+This test is actually 2 tests.

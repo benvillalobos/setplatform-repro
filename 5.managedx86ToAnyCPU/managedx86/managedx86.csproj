@@ -4,13 +4,11 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <PlatformTarget>x86</PlatformTarget>
-    <Platform>x86</Platform>
-  </PropertyGroup>
-  <PropertyGroup>
     <EnableDynamicPlatformResolution>true</EnableDynamicPlatformResolution>
   </PropertyGroup>
-    <ItemGroup>
-      <ProjectReference Include="..\managedx86x64\managedx86x64.csproj" />
-    </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\managedx86x64\managedx86x64.csproj" SetTargetFramework="TargetFramework=net6.0"/>
+  </ItemGroup>
 
 </Project>

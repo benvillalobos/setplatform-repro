@@ -1,1 +1,1 @@
-Should pass PlatformTarget=x86
+Should pass Platform=x86 because same platform

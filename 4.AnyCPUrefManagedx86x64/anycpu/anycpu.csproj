@@ -3,13 +3,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
+    <EnableDynamicPlatformResolution>true</EnableDynamicPlatformResolution>
   </PropertyGroup>
 
-    <PropertyGroup>
-      <EnableDynamicPlatformResolution>true</EnableDynamicPlatformResolution>
-    </PropertyGroup>
-    <ItemGroup>
+  <ItemGroup>
       <ProjectReference Include="..\managedx86x64\managedx86x64.csproj" />
-    </ItemGroup>
+  </ItemGroup>
 
 </Project>
