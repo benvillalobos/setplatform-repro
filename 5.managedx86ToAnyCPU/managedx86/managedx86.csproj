@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\managedx86x64\managedx86x64.csproj" SetTargetFramework="TargetFramework=net6.0"/>
+    <ProjectReference Include="..\anycpu\anycpu.csproj" SetTargetFramework="TargetFramework=net6.0"/>
   </ItemGroup>
 
 </Project>

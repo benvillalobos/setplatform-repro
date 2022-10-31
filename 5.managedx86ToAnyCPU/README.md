@@ -1,0 +1,1 @@
+scenario 5: A is x86, B is AnyCPU, A should pass Platform=AnyCPU because it's most compatible.
