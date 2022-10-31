@@ -1,0 +1,5 @@
+<Project>
+    <PropertyGroup>
+        <EnableDynamicPlatformResolution>true</EnableDynamicPlatformResolution>
+    </PropertyGroup>
+</Project>

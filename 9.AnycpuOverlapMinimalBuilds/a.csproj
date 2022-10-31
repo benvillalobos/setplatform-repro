@@ -5,7 +5,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <ProjectReference Include="../b/b.csproj"/>
-        <ProjectReference Include="../c/c.csproj"/>
+        <ProjectReference Include="b/b.csproj"/>
+        <ProjectReference Include="c/c.csproj"/>
     </ItemGroup>
 </Project>
