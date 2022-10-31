@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Platform>AnyCPU</Platform>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="../c/c.csproj" />
+    </ItemGroup>
+
+</Project>
